@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "email": "23f3001092@ds.study.iitm.ac.in",
+    "version": "1d8eea4b"
+  },
+  "products": [
+    {"id":"prod-1d8eea4b-001","name":"Premium Item 1","category":"books","price":324.19,"stock":42,"rating":4.3},
+    {"id":"prod-1d8eea4b-002","name":"Pro Item 2","category":"books","price":110.73,"stock":41,"rating":4.4},
+    {"id":"prod-1d8eea4b-003","name":"Pro Item 3","category":"home","price":434.91,"stock":7,"rating":3.6},
+    {"id":"prod-1d8eea4b-004","name":"Standard Item 4","category":"books","price":435.34,"stock":166,"rating":4.3},
+    {"id":"prod-1d8eea4b-005","name":"Standard Item 5","category":"electronics","price":144.08,"stock":125,"rating":3.7},
+    {"id":"prod-1d8eea4b-006","name":"Elite Item 6","category":"books","price":374.96,"stock":19,"rating":2.5},
+    {"id":"prod-1d8eea4b-007","name":"Premium Item 7","category":"electronics","price":76.77,"stock":24,"rating":3.7},
+    {"id":"prod-1d8eea4b-008","name":"Premium Item 8","category":"sports","price":218.05,"stock":14,"rating":2.5},
+    {"id":"prod-1d8eea4b-009","name":"Standard Item 9","category":"books","price":19.78,"stock":24,"rating":2.4},
+    {"id":"prod-1d8eea4b-010","name":"Premium Item 10","category":"clothing","price":202.68,"stock":151,"rating":3.5},
+    {"id":"prod-1d8eea4b-011","name":"Pro Item 11","category":"clothing","price":11.13,"stock":148,"rating":4.6},
+    {"id":"prod-1d8eea4b-012","name":"Basic Item 12","category":"home","price":55.18,"stock":166,"rating":3.1},
+    {"id":"prod-1d8eea4b-013","name":"Standard Item 13","category":"books","price":229.14,"stock":143,"rating":1.5},
+    {"id":"prod-1d8eea4b-014","name":"Basic Item 14","category":"electronics","price":145.19,"stock":12,"rating":2.1},
+    {"id":"prod-1d8eea4b-015","name":"Standard Item 15","category":"clothing","price":463.51,"stock":175,"rating":1.6},
+    {"id":"prod-1d8eea4b-016","name":"Pro Item 16","category":"clothing","price":309.72,"stock":64,"rating":3.8},
+    {"id":"prod-1d8eea4b-017","name":"Elite Item 17","category":"books","price":168.23,"stock":33,"rating":4.4},
+    {"id":"prod-1d8eea4b-018","name":"Pro Item 18","category":"home","price":322.31,"stock":183,"rating":3.7}
+  ],
+  "aggregations": {
+    "books": {
+      "count": 7,
+      "inventoryValue": 136339.92
+    }
+  }
+}
