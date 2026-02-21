@@ -23,10 +23,14 @@
     {"id":"prod-1d8eea4b-017","name":"Elite Item 17","category":"books","price":168.23,"stock":33,"rating":4.4},
     {"id":"prod-1d8eea4b-018","name":"Pro Item 18","category":"home","price":322.31,"stock":183,"rating":3.7}
   ],
-  "aggregations": {
-    "books": {
-      "count": 7,
-      "inventoryValue": 136339.92
-    }
+ "aggregations": {
+  "books": {
+    "count": 7,
+    "inventoryValue": 136339.92
+  },
+  "electronics": {
+    "count": 3,
+    "inventoryValue": 21594.76
   }
+}
 }
